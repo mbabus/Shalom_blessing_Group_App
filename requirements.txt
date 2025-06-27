@@ -1,9 +1,0 @@
-streamlit
-pandas
-plotly
-sqlalchemy
-psycopg2-binary
-reportlab
-streamlit-authenticator
-pyyaml
-python-dotenv
